@@ -1,0 +1,4 @@
+Name,E-Mail,Time
+Smitty Verben Menjensen,smittyverben@menjensen.de,2 Feb 2021
+Eugene Krabs,krabs@krustykrab.com,3 Feb 2021
+Gerd G. Geldspeicher,gerd@geldspeicher.de,5 Feb 2021
