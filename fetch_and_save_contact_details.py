@@ -1,6 +1,6 @@
 ##!/usr/bin/env/ python3
 
-#simple python script to fetch and save contact details (name, e-mail adresse and time)
+#simple python script to fetch and save contact details (name, e-mail adresse and date)
 #using the WordPress application WPForms (https://wpforms.com/)
 #by Aaron Sabellek
 
