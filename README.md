@@ -1,7 +1,7 @@
 # fetch_and_save_contact_details
 Simple **Python script to fetch and save contact details** (name, e-mail adresse and date) interacting with the WordPress application "WPForms" (https://wpforms.com/).
 
-The script only works with contact forms by the application WPForms. The contact form has to ask for name and e-mail.
+The script only works with contact forms created wit WPForms. The contact form has to ask for name and e-mail adresse.
 
 The script logs into an e-mail account, fetches the e-mails from the contact form and filters name, e-mail adresse and date.
 
