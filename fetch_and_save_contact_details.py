@@ -1,7 +1,7 @@
 ##!/usr/bin/env/ python3
 
 #simple python script to fetch and save contact details (name, e-mail adresse and time)
-#using the WordPress-application WPForms (https://wpforms.com/)
+#using the WordPress application WPForms (https://wpforms.com/)
 #by Aaron Sabellek
 
 
@@ -16,7 +16,7 @@ data_list = []
 #login to e-mail account using imap
 with MailBox("imap.gmx.com").login("example@gmx.de", "password") as mailbox:
 
-    #fetch unseen e-mails from mailbox in for loop
+    #fetch unseen e-mails from mailbox
     for msg in mailbox.fetch(AND(seen=False)):
 
         #filter e-mails with specific subject used by the contact form
